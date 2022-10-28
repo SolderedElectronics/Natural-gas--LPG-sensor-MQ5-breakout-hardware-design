@@ -1,1 +1,69 @@
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Natural gas, LPG sensor MQ5 breakout/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   CAD/Change Log.xlsx
+	modified:   CAD/V1.0.0/MQ Breakout.kicad_pcb
+	modified:   CAD/V1.0.0/MQ Breakout.kicad_pro
+	modified:   CAD/V1.0.0/MQ Breakout.kicad_sch
+	modified:   CAD/V1.1.1/MQ Breakout.kicad_pcb
+	modified:   CAD/V1.1.1/MQ Breakout.kicad_pro
+	modified:   CAD/V1.1.1/MQ Breakout.kicad_sch
+	modified:   CAD/V1.1.1/PANEL/MQ Breakout.kicad_pcb
+	modified:   CAD/V1.1.1/PANEL/MQ Breakout.kicad_pro
+	modified:   LICENSE.md
+	new file:   OUTPUTS/Compliance/CE.pdf
+	new file:   OUTPUTS/Compliance/Info.txt
+	new file:   OUTPUTS/Compliance/Safety sheet DE.pdf
+	new file:   OUTPUTS/Compliance/Safety sheet EN.pdf
+	new file:   OUTPUTS/Compliance/UKCA.pdf
+	modified:   OUTPUTS/V1.0.0/MQ Breakout_BOM.csv
+	modified:   OUTPUTS/V1.0.0/MQ Breakout_ibom.html
+	modified:   OUTPUTS/V1.0.0/MQX_breakout_gerber.zip
+	modified:   OUTPUTS/V1.1.1/Natural gas LPG sensor MQ5 breakout.jpg
+	modified:   OUTPUTS/V1.1.1/Natural gas, LPG sensor MQ5 breakout_ibom.html
+	modified:   OUTPUTS/V1.1.1/Natural_gas_LPG_sensor_MQ5_breakout.csv
+	modified:   OUTPUTS/V1.1.1/Natural_gas_LPG_sensor_MQ5_breakout.pdf
+	modified:   OUTPUTS/V1.1.1/Natural_gas_LPG_sensor_MQ5_breakout.step
+	modified:   OUTPUTS/V1.1.1/Natural_gas_LPG_sensor_MQ5_breakout_177.4x202.8_40.zip
+	modified:   README.md
+	new file:   log.txt
+
+[main e8208b1] Updating open source files.
+ 27 files changed, 6 insertions(+)
+ mode change 100644 => 100755 .gitignore
+ mode change 100644 => 100755 CAD/Change Log.xlsx
+ mode change 100644 => 100755 CAD/V1.0.0/MQ Breakout.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.0.0/MQ Breakout.kicad_pro
+ mode change 100644 => 100755 CAD/V1.0.0/MQ Breakout.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/MQ Breakout.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/MQ Breakout.kicad_pro
+ mode change 100644 => 100755 CAD/V1.1.1/MQ Breakout.kicad_sch
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/MQ Breakout.kicad_pcb
+ mode change 100644 => 100755 CAD/V1.1.1/PANEL/MQ Breakout.kicad_pro
+ mode change 100644 => 100755 LICENSE.md
+ create mode 100755 OUTPUTS/Compliance/CE.pdf
+ create mode 100755 OUTPUTS/Compliance/Info.txt
+ create mode 100755 OUTPUTS/Compliance/Safety sheet DE.pdf
+ create mode 100755 OUTPUTS/Compliance/Safety sheet EN.pdf
+ create mode 100755 OUTPUTS/Compliance/UKCA.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/MQ Breakout_BOM.csv
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/MQ Breakout_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.0.0/MQX_breakout_gerber.zip
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Natural gas LPG sensor MQ5 breakout.jpg
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Natural gas, LPG sensor MQ5 breakout_ibom.html
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Natural_gas_LPG_sensor_MQ5_breakout.csv
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Natural_gas_LPG_sensor_MQ5_breakout.pdf
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Natural_gas_LPG_sensor_MQ5_breakout.step
+ mode change 100644 => 100755 OUTPUTS/V1.1.1/Natural_gas_LPG_sensor_MQ5_breakout_177.4x202.8_40.zip
+ mode change 100644 => 100755 README.md
+ create mode 100755 log.txt
+https://github.com/SolderedElectronics/Natural-gas,-LPG-sensor-MQ5-breakout-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/LPG, Butane sensor MQ6 breakout/OUTPUTS/V1.1.1: all files are present, commiting...
+LPG,-Butane-sensor-MQ6-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/LPG, Butane sensor MQ6 breakout to LPG,-Butane-sensor-MQ6-breakout-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Natural gas, LPG sensor MQ5 breakout/.git/
