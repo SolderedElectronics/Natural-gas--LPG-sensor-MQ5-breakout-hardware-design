@@ -1,5 +1,5 @@
 SKU: 333105
 Full product name: Natural gas, LPG sensor MQ5 breakout
 Country of origin: Croatia
-HS tariff code: 8538900000  
+HS tariff code: 85340090
 EAN/UPC barcode: 732388667802
